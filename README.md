@@ -1,5 +1,5 @@
 # Other projects
-repository with different projects
+Repository with different projects
 
  Name Project | Status | Targets | Skills & Tools
 :-----------: | :---------------: | -------------- | :-------------------:
